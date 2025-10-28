@@ -1,4 +1,7 @@
 # LlaDA - Masked Diffusion Language Model
+This tiny-LlaDA is a simplified version of https://github.com/ML-GSAI/LLaDA. 
+
+Paper: https://arxiv.org/pdf/2502.09992
 
 ## Project Structure
 
