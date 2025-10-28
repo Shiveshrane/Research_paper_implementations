@@ -44,3 +44,5 @@ python examples/example_basic_inference.py
 ```python
 python examples/example_optimized_inference.py
 ```
+## Training code reference (As stated in the paper and the official Github Repo):
+https://github.com/ML-GSAI/SMDM
