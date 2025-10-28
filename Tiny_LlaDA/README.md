@@ -3,6 +3,8 @@ This tiny-LlaDA is a simplified version of https://github.com/ML-GSAI/LLaDA.
 
 Paper: https://arxiv.org/pdf/2502.09992
 
+This model is trained on https://huggingface.co/datasets/karpathy/tiny_shakespeare for 10 epochs on Kaggle using 1 x Tesla T4 GPU. 
+
 ## Project Structure
 
 ```
