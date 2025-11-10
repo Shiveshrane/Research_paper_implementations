@@ -25,7 +25,6 @@ LlaDA/
 ├── training/
 │   └── train.py               # Training loop
 ├── inference/
-│   ├── basic_inference.py     # Basic inference implementation
 │   └── optimized_inference.py # Optimized inference with timing
 ├── examples/
 │   ├── example_basic_inference.py
